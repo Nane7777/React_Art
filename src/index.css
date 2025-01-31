@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-    --font-pacifico: 'Pacifico';
-    --color-toto: #ffaa00;
+    --font-pacifico: 'Pacifico', 'Comic Sans MS';
+    --color-toto: black;
 }
 
 body {
